@@ -1,6 +1,6 @@
 # ChatBot Discord
 
-Este repositório contém um serviço que conecta um chatbot ao Discord, permitindo interações dinâmicas e personalizadas em seus servidores.
+Este projeto permite integrar um provedor de chatbot ao Discord, permitindo interações dinâmicas e personalizadas em seus servidores.
 
 ## Visão Geral
 
